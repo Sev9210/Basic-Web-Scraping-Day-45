@@ -1,5 +1,5 @@
 # Hacker News (Y Combinator) Web Scraper - Day 45 (Modified Mastery)
-
+IMPORTANT NOTE: THIS IS JUST A BASIC WEBSRAPING FOR STATIC WEBPAGE
 A highly structured, production-ready Python web scraper that accurately parses the Hacker News homepage. While built as part of **Day 45 of the "100 Days of Code: The Complete Python Pro Bootcamp"**, this code skips the fragile, standard list-zipping tutorial architecture in favor of a robust **Row-by-Row Extraction Blueprint**.
 
 ## 🎯 The Challenge: Why the Original Goal Fails
